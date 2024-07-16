@@ -1,0 +1,30 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-membershipwebsite-staging-2e0d5-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267067714:role/amplify-membershipwebsite-staging-2e0d5-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267067714:role/amplify-membershipwebsite-staging-2e0d5-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-membershipwebsite-staging-2e0d5-deployment",
+      "UnauthRoleName": "amplify-membershipwebsite-staging-2e0d5-unauthRole",
+      "StackName": "amplify-membershipwebsite-staging-2e0d5",
+      "StackId": "arn:aws:cloudformation:eu-north-1:533267067714:stack/amplify-membershipwebsite-staging-2e0d5/af27c0d0-42fa-11ef-9a67-06c34dbf03b5",
+      "AmplifyAppId": "d2kphh54o53hq2"
+    },
+    "categories": {
+      "auth": {
+        "membershipwebsite": {}
+      },
+      "function": {
+        "membershipwebsite1e499f71": {
+          "deploymentBucketName": "amplify-membershipwebsite-staging-2e0d5-deployment",
+          "s3Key": "amplify-builds/membershipwebsite1e499f71-6935587830534e797350-build.zip"
+        }
+      },
+      "api": {
+        "membershipwebsite": {},
+        "api18fbb29c": {}
+      }
+    }
+  }
+}

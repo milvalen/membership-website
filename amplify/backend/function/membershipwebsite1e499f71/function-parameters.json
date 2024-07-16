@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "auth": {
+      "membershipwebsite": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
