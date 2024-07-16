@@ -6,6 +6,7 @@ import "@aws-amplify/ui-react/styles.css";
 import "@fontsource/inter";
 import "../styles/reset.css";
 
+
 import awsconfig from "../aws-exports";
 Amplify.configure(awsconfig);
 
